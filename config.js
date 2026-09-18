@@ -10,7 +10,7 @@ window.CITY = {
   comunasGeojson: "comunas_rancagua.geojson",
   live: true,
   liveBase: "https://storage.googleapis.com/rancagua-transporte-live/",
-  demanda: false,
+  demanda: true,
   repo: "transportepublicoRancagua",
   voz: {"ejeSing": "eje", "ejePlur": "ejes", "EjePlur": "Ejes"},
 };
